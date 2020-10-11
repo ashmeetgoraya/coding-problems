@@ -1,2 +1,3 @@
-# hello-world
-Just another repository
+# Coding Challenges
+
+Some of my favorite coding problems
